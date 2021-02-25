@@ -1,5 +1,5 @@
-# Homework #6
-## Pythonic Monopoly
+# SFO Rental Analysis and Dashboard
+
 ### Heather Byrd, 12/03/2020
 
 Required Inputs: neighborhood_coordinates.csv, sfo_neighborhoods_census_data.csv
